@@ -6,7 +6,7 @@
 
 # [FakeCrime](https://fakecrime.bio/makerpasta)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Femboy.Club Owner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Femboy.Club;Owner)](https://git.io/typing-svg)
 <!--
 **makerpastaa/makerpastaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
