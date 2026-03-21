@@ -6,10 +6,13 @@
 
 # [FakeCrime](https://fakecrime.bio/makerpasta)
 
-<h3 align="left">Socials:</h3>
+# Socials
 
-<p align="left">
-<a href="https://www.youtube.com/c/makerpasta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="makerpasta" height="30" width="40" /></a>
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/xonae) [![YouTube](https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://YouTube.com/makerapsta) [![Telegram](https://img.shields.io/badge/Telegram-%23000000.svg?style=for-the-badge&logo=Telegram&logoColor=white&logoColor=white)](https://t.me/nl_dahood) [![TikTok](https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white&logoColor=white&logoColor=white)](https://tiktok.com/@mokrayapasta) [![Discord](https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1263134044816805975) [![Roblox](https://img.shields.io/badge/roblox-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/6056895444/profile) 
+
+
+
+
 
 <!--
 **makerpastaa/makerpastaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
