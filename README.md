@@ -1,6 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=makerpasta;Femboy.Club;Cortisol.Low;AlwaysLoseV2)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makerpastaa)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makerpastaa)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # Socials
 
